@@ -41,7 +41,7 @@
 
 #yosh = int(input("Yoshingiz nechida? "))
 #if yosh<5:
- # narx = "bepul"
+ # narx = "bepul"[](url)](url)
 #elif yosh<= 14:
  # narx = 3000
 #elif yosh<=18:
@@ -115,4 +115,7 @@ savol = {
   "Email pochtangizni kiriting:",
   "Login tanlang:"
 }
-print(savol)`
+print(savol)
+
+
+
